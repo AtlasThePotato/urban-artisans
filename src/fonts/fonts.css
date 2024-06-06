@@ -1,0 +1,9 @@
+@font-face{
+    src: url('/src/fonts/Hey November.ttf');
+    font-family: "hey-november";
+}
+
+@font-face{
+    src: url('/src/fonts/Abuget.ttf');
+    font-family: "abuget";
+}
