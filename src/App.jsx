@@ -1,4 +1,4 @@
-import {BrowserRouter, HashRouter, Routes, Route, Outlet} from 'react-router-dom'
+import {BrowserRouter, Routes, Route, Outlet} from 'react-router-dom'
 
 import Header from './Components/Header'
 
