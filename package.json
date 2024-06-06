@@ -2,7 +2,7 @@
   "name": "urbart-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AtlasThePotato.github.io/urban-artisans/",
+  "homepage": "https://atlasthepotato.github.io/urban-artisans/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
