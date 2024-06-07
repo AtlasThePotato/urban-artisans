@@ -1,4 +1,4 @@
-import {HashRouter, Routes, Route, Outlet} from 'react-router-dom'
+import {Routes, Route, Outlet} from 'react-router-dom'
 
 import Header from './Components/Header'
 
@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <HashRouter>
+      
         <Routes>
           <Route path="/" element={<Header/>}>
             <Route index element={<Home/>}/>
@@ -31,7 +31,7 @@ function App() {
 
          
         </Routes>
-      </HashRouter>
+      
     
      
     </>
