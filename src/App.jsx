@@ -9,6 +9,7 @@ import Nav from './Pages/Nav'
 import About from './Pages/About'
 import Menu from './Pages/Menu'
 import CompensationPackages from './Pages/CompensationPackages'
+import Blog from './Pages/Blog'
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
             
             <Route path="jobs" element={<Jobs/>}/>
             <Route path="mission" element={<Mission/>}/>
+            <Route path="blog" element={<Blog/>}/>
             <Route path="nav" element={<Nav/>}/>
             <Route path="about" element={<About/>}/>
             <Route path="menu" element={<Menu/>}/>

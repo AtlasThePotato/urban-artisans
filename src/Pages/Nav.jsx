@@ -17,7 +17,7 @@ export default function Nav(){
                     
                     <Link to="/"><button className="tracking-[0.3rem] text-xl bg-none text-center w-96 py-1  rounded-lg hover:bg-white hover:text-black transition-all ease-in-out duration-300 mb-6 block m-auto">HOME</button></Link>
                     <Link to="/menu"><button className="tracking-[0.3rem] text-xl bg-none text-center w-96 py-1  rounded-lg hover:bg-white hover:text-black transition-all ease-in-out duration-300 mb-6 block m-auto">MENU</button></Link>
-                    <Link to="/"><button className="tracking-[0.3rem] text-xl bg-none text-center w-96 py-1  rounded-lg hover:bg-white hover:text-black transition-all ease-in-out duration-300 mb-6 block m-auto">BLOG</button></Link>
+                    <Link to="/blog"><button className="tracking-[0.3rem] text-xl bg-none text-center w-96 py-1  rounded-lg hover:bg-white hover:text-black transition-all ease-in-out duration-300 mb-6 block m-auto">BLOG</button></Link>
                     <Link to="/about"><button className="tracking-[0.3rem] text-xl bg-none text-center w-96 py-1  rounded-lg hover:bg-white hover:text-black transition-all ease-in-out duration-300 mb-6 block m-auto">ABOUT US</button></Link>
                     <Link to="/"><button className="tracking-[0.3rem] text-xl bg-none text-center w-96 py-1  rounded-lg hover:bg-white hover:text-black transition-all ease-in-out duration-300 mb-6 block m-auto">FOR INVESTORS / PARTNERS</button></Link>
                     <Link to="/jobs"><button className="tracking-[0.3rem] text-xl bg-none text-center w-96 py-1  rounded-lg hover:bg-white hover:text-black transition-all ease-in-out duration-300 mb-6 block m-auto">JOBS</button></Link>
