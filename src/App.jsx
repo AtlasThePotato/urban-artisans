@@ -10,6 +10,7 @@ import About from './Pages/About'
 import Menu from './Pages/Menu'
 import CompensationPackages from './Pages/CompensationPackages'
 import Blog from './Pages/Blog'
+import Invest from './Pages/Invest'
 
 function App() {
 
@@ -28,6 +29,7 @@ function App() {
             <Route path="about" element={<About/>}/>
             <Route path="menu" element={<Menu/>}/>
             <Route path="compensation-packages" element={<CompensationPackages/>}/>
+            <Route path="invest" element={<Invest/>}/>
         
           </Route>
 
