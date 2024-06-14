@@ -39,6 +39,12 @@ export default function Gallery(){
     return(
         <>
 
+            <h1 className="text-8xl tracking-[0.1rem] text-center mt-12 mb-1 font-['hey-november']">The Urban Artisans Vision Board</h1>
+            <h1 className="text-xl tracking-[0.8rem] text-center mb-4">THE GALLERY OF AESTHETICS</h1>
+            <div className="bg-white h-1 w-96 m-auto mb-8"/>
+
+            <p className="text-center max-w-[60%] m-auto mb-12"></p>
+
             {galleryImages.map((img) => {
                 return (
                     <img src={img} onClick={() => {openDialog(img);}} className="h-48 m-auto block my-6 hover:cursor-pointer transition-all hover:scale-110"/>

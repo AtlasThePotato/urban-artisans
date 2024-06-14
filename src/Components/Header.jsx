@@ -1,5 +1,6 @@
 import {Outlet, Link} from 'react-router-dom'
 import {useRef, useEffect} from 'react'
+import Footer from './Footer';
 
 import Logo from '../assets/Urban Artisans Title (Monochrome).png'
 
@@ -24,6 +25,8 @@ export default function Header(){
             
 
             <Outlet/>
+
+            <Footer/>
 
         </>
     );
