@@ -9,7 +9,7 @@ export default function Home() {
         
         <img src={Logo} className="h-[32rem] m-auto mt-12"/>
         <div className="h-1 max-w-[80rem] bg-white m-auto mb-4"/>
-        <h1 className="text-center m-auto font-['hey-november'] text-6xl mb-8">The Harmony That Comes From Inspiration</h1>
+        <h1 className="text-center m-auto font-['hey-november'] text-6xl mb-8">Powered By Creativity</h1>
 
 
         <div className="bg-gradient-to-t from-purple-500 to-pink-500 border-t-4 border-yellow-400 border-solid border-b-4 py-6">
