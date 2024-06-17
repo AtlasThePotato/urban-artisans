@@ -44,7 +44,7 @@ export default function Gallery(){
             <h1 className="text-xl tracking-[0.8rem] text-center mb-4">THE GALLERY OF AESTHETICS</h1>
             <div className="bg-white h-1 w-96 m-auto mb-8"/>
 
-            <p className="text-center max-w-[60%] m-auto mb-12"></p>
+            <h1 className="text-center mb-12">Click each image to see a brief explanation and history of that image!</h1>
 
             {galleryImages.map((img) => {
                 return (
