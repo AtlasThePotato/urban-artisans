@@ -15,7 +15,7 @@ import Gallery from './Pages/Gallery'
 
 import BlogOperations from './Pages/blogposts/Blog-Operations'
 import BlogPlan from './Pages/blogposts/Blog-Plan'
-import BlogManagement from './Pages/blogposts/Blog-Management'
+
 
 function App() {
 
@@ -39,7 +39,6 @@ function App() {
 
             <Route path="blog/our-long-term-plan-moving-forward" element={<BlogOperations/>}/>
             <Route path="blog/how-we-re-achieving-our-plans-operationally" element={<BlogPlan/>}/>
-            <Route path="blog/management-what-management" element={<BlogManagement/>}/>
             
         
           </Route>
