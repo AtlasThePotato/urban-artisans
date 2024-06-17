@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/urban-artisans",
+  base: "/urban-artisans/",
   plugins: [react()],
   publicDir: 'public',
 })
