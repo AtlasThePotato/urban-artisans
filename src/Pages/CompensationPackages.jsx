@@ -1,6 +1,7 @@
 
 
 export default function CompensationPackages(){
+    window.scrollTo(0,0)
     return(
         <>
             <div className="border-2 border-white border-solid rounded-lg m-16 p-3">

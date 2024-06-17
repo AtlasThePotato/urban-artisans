@@ -1,6 +1,7 @@
 import {Link} from 'react-router-dom'
 
 export default function Jobs(){
+    window.scrollTo(0,0)
     return(
         <>
 

@@ -1,6 +1,8 @@
 import {Link} from 'react-router-dom'
+import { useSetUp } from '../Hooks/useSetUp'
 
 export default function Blog(){
+    useSetUp();
     return(
         <>
             <h1 className="mt-4 font-['abuget'] text-[9rem] m-auto text-center leading-[1.1]">The Artisan's Sample</h1>

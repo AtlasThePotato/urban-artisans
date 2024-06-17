@@ -4,6 +4,7 @@ import Logo from '../assets/Urban Artisans Title (Color).png'
 import MenuFoodPicture from '../assets/menu-food.png'
 
 export default function Home() {
+    window.scrollTo(0,0)
     return(
     <>
         

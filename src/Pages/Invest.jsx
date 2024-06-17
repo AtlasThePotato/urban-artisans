@@ -2,6 +2,7 @@
 
 
 export default function Invest(){
+    window.scrollTo(0,0)
     return(
         <>
             <h1 className="mt-4 font-['abuget'] text-[9rem] m-auto text-center leading-[1.1]">For Investors & Potential Partners</h1>

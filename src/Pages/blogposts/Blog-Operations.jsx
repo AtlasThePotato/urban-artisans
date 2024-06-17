@@ -1,6 +1,7 @@
 import {Link} from 'react-router-dom'
 
 export default function BlogOperations(){
+    window.scrollTo(0,0)
 
     return(
         <>
@@ -18,7 +19,7 @@ export default function BlogOperations(){
             <p className="mb-6 w-3/5 text-center m-auto">Using these three KPIs, our plan is to gather enough capital in order to open up another store within Toronto’s downtown area and add another community towards our reach! Next week, we’ll upload an article explaining what we’ll do to fulfill our goals.</p>
             
 
-            <a href="https://www.canva.com/design/DAGG0QBdGQg/KqcHE5raj6fikookj_YYWQ/view?utm_content=DAGG0QBdGQg&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"> <button className="block m-auto border-white border-solid border-2 py-1 w-2/5 transition-all hover:bg-white rounded-lg hover:text-black mb-12 text-2xl tracking-[0.8rem]">VIEW THE FULL PRESENTATION</button></a>
+            
             <Link to="/blog"><button className="block m-auto border-white border-solid border-2 py-1 w-2/5 transition-all hover:bg-white rounded-lg hover:text-black mb-12 text-2xl tracking-[0.8rem]">BACK TO BLOG</button></Link>
         </>
     )

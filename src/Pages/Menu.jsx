@@ -1,6 +1,7 @@
 
 
 export default function Menu(){
+    window.scrollTo(0,0)
     return(
         <>
 

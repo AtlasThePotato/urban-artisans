@@ -4,6 +4,7 @@ import Logo from '../assets/Urban Artisans Title (Color).png'
 
 
 export default function Nav(){
+    window.scrollTo(0,0)
     return(
         <>
 
