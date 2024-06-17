@@ -3,7 +3,7 @@ import Logo from '../assets/Urban Artisans Title (Monochrome).png'
 export default function Footer(){
     return(
         <>
-            <div className="bg-black py-6 border-t-4 border-yellow-400 border-solid ">
+            <div className="bg-black py-6 border-t-4 border-yellow-400 border-solid  mt-6">
                 <p className="text-center opacity-50 mb-6">This page is entirely fictional. </p>
                 <img src={Logo} className="h-48  m-auto "/>
                 <div className="h-1 w-[15rem] bg-white m-auto mt-2 mb-4"/>
