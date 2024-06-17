@@ -26,7 +26,7 @@ export default function Blog(){
 
             </div>
 
-            <div className="border-solid border-b-2 border-white mx-12 flex mb-6">
+            <div className="border-solid border-b-2 border-white mx-12 flex">
 
                 <div className="w-8/12">
                     <h1 className="my-6 text-6xl">How We're Achieving Our Plans (Operationally)</h1>
@@ -35,7 +35,20 @@ export default function Blog(){
                     <Link to="/blog/how-we-re-achieving-our-plans-operationally"><button className="border-solid border-white border-2 rounded-lg w-[40%] block tracking-[0.4rem] mb-6 hover:bg-white hover:text-black transition-all text-xl py-1">VIEW STORY</button></Link>
                 </div>
 
-                <div className="bg-center bg-cover bg-[url('/src/assets/blog-plan-thumbnail.jpg')] h-auto w-4/12 border-x-2 border-white border-solid"/>
+                <div className="bg-center bg-cover bg-[url('/src/assets/blog-coffee.jpg')] h-auto w-4/12 border-x-2 border-white border-solid"/>
+
+            </div>
+
+            <div className="border-solid border-b-2 border-white mx-12 flex mb-6">
+
+                <div className="w-8/12">
+                    <h1 className="my-6 text-6xl">The Four Management Functions & Us</h1>
+                    <div className="h-1 border-solid w-[90%] bg-white"/>
+                    <p className="text-xl mb-6 mt-2">By: Aidan Tang | Published: June 23, 2024 | Type: Employees & Operations</p>
+                    <Link to="/blog/the-four-management-functions-and-us"><button className="border-solid border-white border-2 rounded-lg w-[40%] block tracking-[0.4rem] mb-6 hover:bg-white hover:text-black transition-all text-xl py-1">VIEW STORY</button></Link>
+                </div>
+
+                <div className="bg-center bg-cover bg-[url('/src/assets/blog-leadership.jpg')] h-auto w-4/12 border-x-2 border-white border-solid"/>
 
             </div>
 

@@ -8,7 +8,7 @@ export default function BlogPlan(){
             <h1 className="text-7xl text-center mt-6 mb-3 font-['hey-november']">How We're Achieving Our Plans (Operationally)</h1>
             <p className="text-center text-xl tracking-[0.6rem] mb-4">BY: AIDAN TANG | JUNE 22, 2024 | 5 MINUTE READ</p>
             <div className="w-[55%] h-1 bg-white m-auto mb-6"></div>
-            <div className="w-4/12 h-96 bg-[url('/src/assets/blog-plan-thumbnail.jpg')] bg-center bg-cover m-auto brightness-110 mb-6"/>
+            <div className="w-4/12 h-96 bg-[url('/src/assets/blog-coffee.jpg')] bg-center bg-cover m-auto brightness-110 mb-6"/>
 
             
             <p className="mb-6 w-3/5 text-center m-auto">Last week, we described to you our plans for the future and what we intend to achieve. But there’s a difference between a dream and a goal, and at Urban Artisans, we are here to not just dream, but to execute that dream. In order to achieve our goals, we have developed three smaller objectives to fulfill first.</p>

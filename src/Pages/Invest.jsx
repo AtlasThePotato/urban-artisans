@@ -39,7 +39,7 @@ export default function Invest(){
 
             </div>
 
-            <div className="flex border-4 border-solid border-white mx-12 my-0 border-b-0">
+            <div className="flex border-4 border-solid border-white mx-12 my-0">
                 <div className="w-[70%] p-2">
                     <h1 className="font-['hey-november'] text-[6.5rem] p-4 leading-[0.85]">An Undivided Team</h1>
                     <p className="mb-6">At Urban Artisans, we believe that for the best results, a team aligned under one single goal is a team that gets things done. We also firmly believe that if there’s too much dissonance within the goals of each and every one of our members, nothing gets done at the pace it needs to be. As such, we foster an environment where we all work towards a common goal: making the experience of each and every person in Urban Artisans a wonderful one, whether that be our customers, the baristas that serve them, any everyone else working behind the scenes, our artists and managers, who make sure our operations goes smooth and soundly. Likewise, we always make sure that our employees are always attended to with competitive benefits and compensation, and that their voice will always be heard in the matters they care most about. In summary, we believe that morale and a shared goal are crucial components to success, and as such, we place great efforts in fostering a productive and fulfilling environment for all. Of course, we also encourage leadership and initiatve in our employees through our own social responsibility initiatives, which elevate the voices of those underrepresented in society and promote youth towards a greater future.</p>

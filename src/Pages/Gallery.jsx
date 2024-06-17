@@ -7,7 +7,9 @@ import Motto from '../assets/urbart-motto-fonts.png'
 
 
 export default function Gallery(){
-    window.scrollTo(0,0)
+    useEffect(() => {
+        window.scrollTo(0,0)
+    }, [])
 
     const [image, setImage] = useState(Submark);
     const [closeUpText, setCloseUpText] = useState(["THE URBAN ARTISANS SUBMARK", "The Submark Of Urban Artisans"])
