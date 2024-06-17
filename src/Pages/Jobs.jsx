@@ -18,7 +18,7 @@ export default function Jobs(){
             <div className="bg-white h-1 w-96 m-auto mb-8"/>
 
             <p className="text-center max-w-[60%] m-auto mb-6">At Urban Artisans, we are always looking out for the greatest potential! Here, you can view some of our current job offerings! If your unique talents don't match up to what's currently here, than keep on checking back! We might not be looking for someone like you right now, but we might in the future!</p>
-            <p className="text-center max-w-[60%] m-auto mb-6">Here is what's availible:</p>
+            <p className="text-center max-w-[60%] m-auto mb-6">Here is what's available:</p>
 
             <div className="border-white border-solid border-2 rounded-md p-6 mx-6 text-sm">
 
